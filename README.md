@@ -1,5 +1,5 @@
 # checkers_game
-This is a simple interactive checkers game in the console.
+This is a simple interactive checkers game.
 
 ## Features:
  * Multiplaying
