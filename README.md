@@ -5,6 +5,7 @@ This is a simple interactive checkers game.
  * Multiplaying
  * Interactive
  * As generic code as possible
+ * Attack oponent
 
 ## Usage:
 After executing 'checker.py', the game gets intinatilzed and the first player can make a move.
